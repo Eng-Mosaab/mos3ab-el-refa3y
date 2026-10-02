@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eng-mosaab.github.io/mos3ab-el-refa3y/sitemap.xml
